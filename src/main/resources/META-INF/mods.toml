@@ -28,7 +28,7 @@ authors="Brynne" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-A mod all about delving into a world of different gems and the art of shaping them to draw out mind-boggling powers.
+A mod all about delving into a world of different gems and the art of shaping them to draw out extraordinary powers.
 '''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
